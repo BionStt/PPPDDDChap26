@@ -1,7 +1,7 @@
-PPPDDDChap20
+PPPDDDChap26
 ============
 
-Principles, Practices and Patterns of Domain-Driven Design: Chapter 20 Application Service Patterns
+Principles, Practices and Patterns of Domain-Driven Design: Chapter 26 "Commands: Application Service Patterns for processing Business Use Cases"
 
 Examples of Application Service Patterns:
 
